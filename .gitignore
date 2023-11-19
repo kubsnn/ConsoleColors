@@ -1,0 +1,9 @@
+# ignore vs code
+.vscode
+
+# ignore cmake files
+example/CMakeFiles
+example/cmake_install.cmake
+example/CMakeCache.txt
+example/Makefile
+example/example
