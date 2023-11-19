@@ -1,4 +1,4 @@
-
+.vscode
 
 # ignore cmake files
 example/CMakeFiles
