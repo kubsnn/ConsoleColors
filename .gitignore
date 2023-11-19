@@ -6,3 +6,4 @@ example/cmake_install.cmake
 example/CMakeCache.txt
 example/Makefile
 example/example
+build

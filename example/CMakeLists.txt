@@ -9,5 +9,5 @@ project(Colors)
 include_directories(../include)
 
 # Add the source files to the executable
-add_executable(example main.cpp)
+add_executable(example example.cpp)
 
