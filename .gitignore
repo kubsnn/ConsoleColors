@@ -1,5 +1,4 @@
-# ignore vs code
-.vscode
+
 
 # ignore cmake files
 example/CMakeFiles
